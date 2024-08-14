@@ -1,0 +1,54 @@
+
+body { 
+margin: 0; 
+background: url(Cream\ and\ Brown\ Photographic\ Beauty\ Site\ Launch\ Website.png); 
+background-repeat: no-repeat; 
+background-size: cover;
+} 
+
+#navbar { 
+position: fixed; 
+width: 100%; 
+background-color: #ffffff85; 
+box-shadow: 0 25px 45px rgba(37, 37, 37, 0.26);  
+border-radius: 10px; 
+} 
+
+#navbar ul { 
+list-style-type: none; 
+margin: 0; 
+padding: 0; 
+overflow: hidden; 
+display: flex; 
+justify-content: space-around; 
+font-weight: 100; 
+} 
+
+#navbar ul li { 
+float: left; 
+border-radius: 5px; 
+} 
+
+#navbar ul li a { 
+display: block; 
+color: rgba(5, 5, 5, 0.685); 
+text-align: center; 
+padding: 15px 20px; 
+text-decoration: none; 
+font-family: Arial, sans-serif; 
+} 
+
+#navbar ul li a:hover { 
+background-color: #ffffff71; 
+color: rgb(0, 0, 0); 
+box-shadow: 0 25px 45px rgba(37, 37, 37, 0.26);  
+border-radius: 15px; 
+backdrop-filter: blur(10px); 
+font-weight: 700;  
+
+} 
+
+
+.scroll-nav { 
+background-color: #555; 
+} 
